@@ -9,7 +9,7 @@ This is a chrome extension that can show full date in comment and reply to you w
 ### Version History
 
 - Version 0.3
-    - Support all subpages of [Stackoverflow]http://stackoverflow.com/
+    - Support all subpages of [Stackoverflow](http://stackoverflow.com/)
     - Dont't convert date such as "yesterday","33 secs ago"
 
 - Version 0.1
