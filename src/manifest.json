@@ -1,11 +1,11 @@
 {
    "content_scripts": [ {
       "js": [ "script.js" ],
-      "matches": [ "http://stackoverflow.com/questions/*" ],
+      "matches": [ "http://stackoverflow.com/*" ],
       "run_at": "document_end"
    } ],
    "description": "This extension can display full date in reply and comment of stackoverflow.com",
    "manifest_version": 2,
    "name": "Stackoverflow Full Date",
-   "version": "0.1"
+   "version": "0.3"
 }
