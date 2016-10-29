@@ -6,7 +6,10 @@ This is a chrome extension that can show full date in comment and reply to you w
 
 ![after](http://ww1.sinaimg.cn/large/006tNbRwgw1f6r3o5vczyj311k0ledp1.jpg)
 
-### Version History
+### Change Log
+
+- Version 0.4
+    - Support [StackExchange](http://stackexchange.com/)
 
 - Version 0.3
     - Support all subpages of [Stackoverflow](http://stackoverflow.com/)
@@ -14,3 +17,5 @@ This is a chrome extension that can show full date in comment and reply to you w
 
 - Version 0.1
     - Release
+
+

@@ -1,7 +1,7 @@
 {
    "content_scripts": [ {
       "js": [ "script.js" ],
-      "matches": [ "http://stackoverflow.com/*" ],
+      "matches": [ "http://stackoverflow.com/*", "http://stackexchange.com/*", "http://*.stackexchange.com/*" ],
       "run_at": "document_end"
    } ],
    "description": "This extension can display full date in reply and comment of stackoverflow.com",
